@@ -51,13 +51,10 @@
 
 <br><br>
 
-<a href="https://github.com/chowais181">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowais181&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/chowais181">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=chowais181&show_icons=true&theme=light&line_height=27" alt="Awais stats"/>
-</a>
-<div align="center">
+<p align = "center">
+  <img width="54%" src = "https://github-readme-stats.vercel.app/api?username=chowais181&show_icons=true&theme=tokyonight">
+  <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chowais181&hide=css,java,html&theme=tokyonight&layout=compact">
+</p>
 
 <br><br>  
 ### Show some ❤️ by starring  the repositories!
