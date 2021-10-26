@@ -18,8 +18,6 @@
 <a href="https://www.facebook.com/ch.awais.9212/">
   <img align="left" alt="awais's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a>
-
-
 <br/> 
 <br/>
 - 🔭 I’m currently working on disease detection and medicine recommendation from patient's symptoms using Machine Learning and Deep Learning.
