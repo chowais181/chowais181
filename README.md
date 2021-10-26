@@ -1,4 +1,4 @@
-### Hi there, I'm Awais Zahid 👋👋
+### Hi there, I'm Muhammad Awais Zahid 👋👋
 <br><br>
 <a href="https://twitter.com/chaudhary_181">
   <img align="left" alt="awais Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,10 +20,10 @@
 </a>
 <br/> 
 <br/>
-- 🔭 I’m currently working on disease detection and medicine recommendation from patient's symptoms using ML| AI| DL 
-- 🌱 I’m currently learning MEARN STACK
-- 👯 I’m open source enthusiast
-- 🤔 I’m looking for help with CSS 3D modeling and Animation
+- 🔭 I’m currently working on disease detection and medicine recommendation from patient's symptoms using Machine Learning and Deep Learning.
+- 🌱 I’m currently learning MEARN STACK.
+- 👯 I’m open source enthusiast.
+- 🤔 I’m looking for help with CSS 3D modeling and Animation.
 - 💬 Ask me about Web development | AI problems  | Parallelization using MPI Open MP | Software Testing and Quality Assurance | Differential and Calculus 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Cricket and Snooker lover    
