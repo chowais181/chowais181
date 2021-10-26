@@ -20,7 +20,7 @@
 </a>
 <br/> 
 <br/>
-- 🔭 I’m currently working on disease detection and medicine recommendation from patient's symptoms using Machine Learning and Deep Learning.
+- 🔭 I’m currently working on <b>disease detection</b> and <b>medicine recommendation</b> from patient's symptoms using Machine Learning and Deep Learning.
 - 🌱 I’m currently learning MEARN STACK.
 - 👯 I’m open source enthusiast.
 - 🤔 I’m looking for help with CSS 3D modeling and Animation.
