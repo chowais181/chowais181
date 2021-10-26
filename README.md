@@ -1,29 +1,29 @@
-### Hi there, I'm Awais Zahid 👋👋
+### Hi there, I'm Muhammad Awais Zahid 👋👋
 <br><br>
 <a href="https://twitter.com/chaudhary_181">
-  <img align="left" alt="awais Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="awais Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/awais-zahid-790124197">
-  <img align="left" alt="awais Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="awais Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/chowais181">
-  <img align="left" alt="awais's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="awais's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
 </a>
 <a href="https://t.me/chaudhary_181">
-  <img align="left" alt="awais" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="awais" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/chaudhary_181/">
-  <img align="left" alt="awais's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="awais's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ch.awais.9212/">
-  <img align="left" alt="awais's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="awais's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a>
 <br/> 
 <br/>
-- 🔭 I’m currently working on disease detection and medicine recommendation from patient's symptoms using ML| AI| DL 
-- 🌱 I’m currently learning MEARN STACK
-- 👯 I’m open source enthusiast
-- 🤔 I’m looking for help with CSS 3D modeling and Animation
+- 🔭 I’m currently working on disease detection and medicine recommendation from patient's symptoms using Machine Learning and Deep Learning.
+- 🌱 I’m currently learning MEARN STACK.
+- 👯 I’m open source enthusiast.
+- 🤔 I’m looking for help with CSS 3D modeling and Animation.
 - 💬 Ask me about Web development | AI problems  | Parallelization using MPI Open MP | Software Testing and Quality Assurance | Differential and Calculus 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Cricket and Snooker lover    
