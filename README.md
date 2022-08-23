@@ -23,9 +23,7 @@
 - 🔭 I’m currently working on <b>disease detection</b> and <b>medicine recommendation</b> from patient's symptoms using Machine Learning and Deep Learning.
 - 🌱 MERN STACK developer.
 - 👯 I’m open source enthusiast.
-- 🤔 I’m looking for help with CSS 3D modeling and Animation.
-- 💬 Ask me about Web development | AI problems  | Parallelization using MPI Open MP | Software Testing and Quality Assurance | Differential and Calculus 
-- 😄 Pronouns: He/His
+- 💬 Ask me about Web development | Javascript | Rest Api's | React|
 - ⚡ Fun fact: Cricket and Snooker lover    
 - 📫 How to reach me: You can get in touch with me on my LinkedIn Profile:  [![LinkedIn Link](https://img.shields.io/badge/Connect-AwaisZahid-blue.svg?color=1DA1F2&logo=linkedin&longCache=true&style=for-the-badge
 )](https://www.linkedin.com/in/awais-zahid-790124197)
