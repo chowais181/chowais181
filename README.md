@@ -21,7 +21,7 @@
 <br/> 
 <br/>
 - 🔭 I’m currently working on <b>disease detection</b> and <b>medicine recommendation</b> from patient's symptoms using Machine Learning and Deep Learning.
-- 🌱 I’m currently learning MEARN STACK.
+- 🌱 MERN STACK developer.
 - 👯 I’m open source enthusiast.
 - 🤔 I’m looking for help with CSS 3D modeling and Animation.
 - 💬 Ask me about Web development | AI problems  | Parallelization using MPI Open MP | Software Testing and Quality Assurance | Differential and Calculus 
